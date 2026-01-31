@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Sharks App</string>
+    
+    <!-- Splash Screen -->
+    <string name="splash_welcome">Bem-vindo ao Sharks App</string>
+    <string name="splash_tagline">Controle financeiro na palma da sua mão</string>
+    
+    <!-- Common -->
+    <string name="loading">Carregando…</string>
+</resources>
